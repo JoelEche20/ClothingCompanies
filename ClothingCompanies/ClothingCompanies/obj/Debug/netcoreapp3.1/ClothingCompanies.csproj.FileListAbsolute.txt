@@ -1,0 +1,13 @@
+C:\Users\Joel\Desktop\ArquiSoft\ClothingCompanies\ClothingCompanies\bin\Debug\netcoreapp3.1\ClothingCompanies.exe
+C:\Users\Joel\Desktop\ArquiSoft\ClothingCompanies\ClothingCompanies\bin\Debug\netcoreapp3.1\ClothingCompanies.deps.json
+C:\Users\Joel\Desktop\ArquiSoft\ClothingCompanies\ClothingCompanies\bin\Debug\netcoreapp3.1\ClothingCompanies.runtimeconfig.json
+C:\Users\Joel\Desktop\ArquiSoft\ClothingCompanies\ClothingCompanies\bin\Debug\netcoreapp3.1\ClothingCompanies.runtimeconfig.dev.json
+C:\Users\Joel\Desktop\ArquiSoft\ClothingCompanies\ClothingCompanies\bin\Debug\netcoreapp3.1\ClothingCompanies.dll
+C:\Users\Joel\Desktop\ArquiSoft\ClothingCompanies\ClothingCompanies\bin\Debug\netcoreapp3.1\ClothingCompanies.pdb
+C:\Users\Joel\Desktop\ArquiSoft\ClothingCompanies\ClothingCompanies\obj\Debug\netcoreapp3.1\ClothingCompanies.csprojAssemblyReference.cache
+C:\Users\Joel\Desktop\ArquiSoft\ClothingCompanies\ClothingCompanies\obj\Debug\netcoreapp3.1\ClothingCompanies.AssemblyInfoInputs.cache
+C:\Users\Joel\Desktop\ArquiSoft\ClothingCompanies\ClothingCompanies\obj\Debug\netcoreapp3.1\ClothingCompanies.AssemblyInfo.cs
+C:\Users\Joel\Desktop\ArquiSoft\ClothingCompanies\ClothingCompanies\obj\Debug\netcoreapp3.1\ClothingCompanies.csproj.CoreCompileInputs.cache
+C:\Users\Joel\Desktop\ArquiSoft\ClothingCompanies\ClothingCompanies\obj\Debug\netcoreapp3.1\ClothingCompanies.dll
+C:\Users\Joel\Desktop\ArquiSoft\ClothingCompanies\ClothingCompanies\obj\Debug\netcoreapp3.1\ClothingCompanies.pdb
+C:\Users\Joel\Desktop\ArquiSoft\ClothingCompanies\ClothingCompanies\obj\Debug\netcoreapp3.1\ClothingCompanies.genruntimeconfig.cache
